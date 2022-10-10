@@ -1,0 +1,36 @@
+.kop,
+footer {
+    text-align: center;
+    min-height: 50px;
+    padding: 20px;
+    background-color: #123558;
+    color: #ffffff;
+}
+
+body {
+    background-color: rgb(190, 201, 232);
+}
+
+footer {
+    min-height: 200px;
+}
+
+p {
+    padding: 20px;
+}
+
+form {
+
+    padding: 20px;
+}
+
+input,
+button,
+textarea {
+    display: block;
+    text-align: center;
+    width: 50%;
+    margin: auto;
+    border: 1px solid black;
+    padding: 5px;
+}
